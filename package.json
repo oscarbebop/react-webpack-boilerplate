@@ -4,7 +4,7 @@
   "description": "Base project with react and webpack",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/oscarbebop/react-webpack-boilerplate/issues"
   },
-  "homepage": "https://github.com/oscarbebop/react-webpack-boilerplate#readme"
+  "homepage": "https://github.com/oscarbebop/react-webpack-boilerplate#readme",
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
 }
