@@ -1,0 +1,30 @@
+{
+  "name": "react-webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "Base project with react and webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscarbebop/react-webpack-boilerplate.git"
+  },
+  "keywords": [
+    "React",
+    "Webpack",
+    "TypeScript",
+    "Eslint",
+    "Prettier",
+    "React",
+    "Router",
+    "DOM",
+    "Jest"
+  ],
+  "author": "Oscar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oscarbebop/react-webpack-boilerplate/issues"
+  },
+  "homepage": "https://github.com/oscarbebop/react-webpack-boilerplate#readme"
+}
